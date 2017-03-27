@@ -1,0 +1,20 @@
+-imagem de fundo para paralax
+-texto de entrada, algo chamativo
+-imagens basicas dos serviços
+-mudanças do texto de descrição da pagina de contato
+-quantos e quais clientes
+-plano de fundo da parte dos valores(anos, clientes, etc)
+-mudar os icones na tela inicial( os amarelos)
+-texto do quem somos e foto
+-informações diferentes nos numeros da pagina de quem somos????
+-texto de por que nos escolher no portifólio
+-itens para o portifólio
+-video para o portifólio
+-informações diferentes nos numeros da pagina de portifólio????
+-mudar cor da logo da level para o verde deles??
+-transparencia nas logos deles
+
+azul escuro #0e0d38
+azul claro #575d93
+98bf4a
+verde mais escuro #7ec000
